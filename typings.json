@@ -1,0 +1,15 @@
+{
+    "dependencies": {},
+    "ambientDependencies": {
+        "chalk": "github:DefinitelyTyped/DefinitelyTyped/chalk/chalk.d.ts#5a8fc5ee71701431e4fdbb80c506e3c13f85a9ff",
+        "gulp-util": "github:DefinitelyTyped/DefinitelyTyped/gulp-util/gulp-util.d.ts#5a8fc5ee71701431e4fdbb80c506e3c13f85a9ff",
+        "Q": "github:DefinitelyTyped/DefinitelyTyped/q/Q.d.ts#5c3e47967affa3c4128a3875d1664ba206ae1b0f",
+        "gulp": "github:DefinitelyTyped/DefinitelyTyped/gulp/gulp.d.ts#5c3e47967affa3c4128a3875d1664ba206ae1b0f",
+        "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#138ad74b9e8e6c08af7633964962835add4c91e2",
+        "orchestrator": "github:DefinitelyTyped/DefinitelyTyped/orchestrator/orchestrator.d.ts#5c3e47967affa3c4128a3875d1664ba206ae1b0f",
+        "run-sequence": "github:DefinitelyTyped/DefinitelyTyped/run-sequence/run-sequence.d.ts#052725d74978d6b8d7c4ff537b5a3b21ee755a49",
+        "through2": "github:DefinitelyTyped/DefinitelyTyped/through2/through2.d.ts#5a8fc5ee71701431e4fdbb80c506e3c13f85a9ff",
+        "vinyl": "github:DefinitelyTyped/DefinitelyTyped/vinyl/vinyl.d.ts#5a8fc5ee71701431e4fdbb80c506e3c13f85a9ff",
+        "yargs": "github:DefinitelyTyped/DefinitelyTyped/yargs/yargs.d.ts#6a287502dab374e7d4cbf18ea1ac5dff7f74726a"
+    }
+}
